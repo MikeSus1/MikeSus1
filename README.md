@@ -6,7 +6,8 @@
 - 😄 Pronouns: Travis Scott
 - ⚡ Fun fact: Travis Scott
 
-- [![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeSus1)](https://github.com/MikeSus1/github-readme-stats)
+<!---[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeSus1&show_icons=true&theme=radical)](https://github.com/MikeSus1/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSus1&size_weight=0.5&count_weight=0.5)--->
 
 <!---
 MikeSus1/MikeSus1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
